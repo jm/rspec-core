@@ -1,6 +1,5 @@
 require 'rspec/core/formatters/helpers'
 require 'stringio'
-
 module RSpec
   module Core
     module Formatters
